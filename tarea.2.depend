@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1567652630 source:c:\users\dbaez\downloads\tarea.2\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1567652630 c:\users\dbaez\downloads\tarea.2\list.h
+
+1572231028 source:c:\users\dbaez\downloads\tarea.2\main.c
+	"Map.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"list.h"
+
+1538512728 c:\users\dbaez\downloads\tarea.2\map.h
+
+1541948956 source:c:\users\dbaez\downloads\tarea.2\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
